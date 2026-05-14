@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm João Garcia</h1>
+<h1 align="center">Hi, I'm João Garcia</h1>
 <h3 align="center">A Data Analyst from Portugal</h3>
 
 - 🔭 I’m currently working on **my portfolio**
