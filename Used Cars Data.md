@@ -24,17 +24,22 @@
 
 ### 🧹 Data cleaning
 
+  ● Create a new table with the Brand and Model separated for further analysis while keeping the old table untouched
+
 ````sql
 Create table cars_table as 
--- This allows us to create a new table with the Brand and Model separated for further analysis while keeping the old table untouched 
 select substring_index(name, ' ', 1) as Brand,
 substr(name, locate(' ',name) + 1) as Model,
 year, selling_price, km_driven, fuel, seller_type, transmission, owner
 from `cars_dataset`.`cars1`
 `````
 
-
-
+  ● Since the selling price is in rupes, this converts Rupes to Euros at current conversion rate
+  
+````sql
+update `cars_dataset`.`cars_table`
+set selling_price = round(selling_price / 110.58)
+`````
 
 
 
