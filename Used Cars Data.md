@@ -22,7 +22,7 @@ All the data used was sourced from the following link: [here](https://www.kaggle
 
 
 
-## Solution
+## ✅ Solution
 
 ### 🧹 Data cleaning
 
