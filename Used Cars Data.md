@@ -3,10 +3,10 @@
 
 ## Contents
 - [Business Task](#-business-task) 
-- [The Data](#the-data)
+- [The Data](#-the-data)
 - [Solution](#solution)
-  - [Data Cleaning](#data-cleaning)
-  - [Analysis](#analysis)
+  - [Data Cleaning](#-data-cleaning)
+  - [Analysis](#-analysis)
 
 All the data used was sourced from the following link: [here](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho).
 
