@@ -1,8 +1,16 @@
-<h1 align="center">My Portfolio</h1>
-# 🎯 Projects 
+# My Portfolio
+## 🎯 Projects 
+  - 🔭 [SQL](#sql)
+  - 👨‍💻 [Tableau](#tableau)
 
-## 🔭 [SQL]
-## 👨‍💻 [Tableau]
+
+
+
+
+
+
+# SQL
+  - 🚗 [Used Cars market evaluation](https://github.com/JoaoGarciaData/JoaoGarciaData/blob/main/Used%20Cars%20Data.md)
 
 
 
