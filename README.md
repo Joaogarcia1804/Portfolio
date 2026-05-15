@@ -1,9 +1,10 @@
-<h1 align="center">Hi, I'm João Garcia</h1>
-<h3 align="center">A Data Analyst from Portugal</h3>
+<h1 align="center">My Portfolio</h1>
+<h3 align="left">Projects</h3>
 
-- 🔭 I’m currently working on **my portfolio**
 
-- 👨‍💻 All of my projects are available at [https://public.tableau.com/app/profile/jo.o.garcia1537/vizzes](https://public.tableau.com/app/profile/jo.o.garcia1537/vizzes)
+- 🔭
+
+- 👨‍💻
 
 - 📫 How to reach me **joaongarcia18@gmail.com**
 
