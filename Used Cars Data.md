@@ -1,7 +1,7 @@
 # Case Study 1: Used Cars Market
 
 
-## Contents
+## 💾 Contents
 - [Business Task](#-business-task) 
 - [The Data](#%EF%B8%8F-the-data)
 - [Solution](#solution)
