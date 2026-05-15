@@ -2,8 +2,8 @@
 
 
 ## Contents
-- Business Task(#Business-task)
-- The Data(#the-data)
+- [Business Task](#Business-task)
+- [The Data](#the-data)
 - Solution
   - Data Cleaning
   - Analysis
