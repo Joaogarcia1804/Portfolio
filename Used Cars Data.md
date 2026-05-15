@@ -10,8 +10,8 @@
 
 
 ## 📚 Business Task
-    Identify the key variables that impact the resale value of used cars from dealerships and independent sellers
-    Analyse market trends and consumer preferences 
+Identify the key variables that impact the resale value of used cars from dealerships and independent sellers
+Analyse market trends and consumer preferences 
 
 
 ## 🗂️ The Data
