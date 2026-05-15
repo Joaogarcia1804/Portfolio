@@ -8,6 +8,8 @@
   - [Data Cleaning](#data-cleaning)
   - [Analysis](#analysis)
 
+All the data used was sourced from the following link: [here](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho).
+
 
 ## 📚 Business Task
   ● Identify the key variables that impact the resale value of used cars from dealerships and independent sellers.
@@ -49,7 +51,7 @@ set selling_price = round(selling_price / 110.58)
 
 ````sql
 select year, avg(selling_price) as AVG_Price
-from `cars_dataset`.`new_data`
+from `cars_dataset`.`cars_table`
 group by year
 order by year
 ````
@@ -58,7 +60,7 @@ order by year
 
 ````sql
 select year, fuel, round(avg(km_driven)) as avg_km_driven
-from `cars_dataset`.`new_data`
+from `cars_dataset`.`cars_table`
 group by year, fuel
 order by fuel, year
 ````
@@ -67,7 +69,7 @@ order by fuel, year
 
 ````sql
 select year, transmission, round(avg(selling_price)) as avg_price
-from `cars_dataset`.`new_data`
+from `cars_dataset`.`cars_table`
 group by year, transmission
 order by year, transmission
 ````
@@ -76,24 +78,38 @@ order by year, transmission
 
 ````sql
 select year, fuel, count(*) as car_count, avg(selling_price)
-from `cars_dataset`.`new_data`
+from `cars_dataset`.`cars_table`
 group by year, fuel
 order by fuel, year
 ````
 
   ● Average car price by mileage bracket
 
- ```sql
+````sql
 select concat_ws('-', start_km, end_km) as km_var, num_cars, avg_price
 from (
 	select floor(km_driven / 10000) * 10000 as start_km , floor(km_driven / 10000) * 10000 + 9990 as end_km,
  count(*) as num_cars, avg(selling_price) as avg_price
-from `cars_dataset`.`new_data`
+from `cars_dataset`.`cars_table`
 where km_driven between 0 and 300000
 group by start_km, end_km
 ) as results
 order by start_km
-```
+````
+
+  ● Anual average car price by brand
+
+````sql
+select Brand, year, avg(selling_price) as AVG_Price
+from `cars_dataset`.`cars_table`
+group by Brand, year
+order by Brand, AVG_Price
+````
+
+
+
+
+
  
 
 
