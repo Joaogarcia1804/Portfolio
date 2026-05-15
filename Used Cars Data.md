@@ -24,6 +24,14 @@
 
 ### 🧹 Data cleaning
 
+````sql
+Create table cars_table as 
+-- This allows us to create a new table with the Brand and Model separated for further analysis while keeping the old table untouched 
+select substring_index(name, ' ', 1) as Brand,
+substr(name, locate(' ',name) + 1) as Model,
+year, selling_price, km_driven, fuel, seller_type, transmission, owner
+from `cars_dataset`.`cars1`
+`````
 
 
 
