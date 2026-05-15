@@ -1,14 +1,26 @@
 <h1 align="center">My Portfolio</h1>
-<h3 align="left">Projects</h3>
+# 🎯 Projects 
+
+## 🔭 [SQL]
+## 👨‍💻 [Tableau]
 
 
-- 🔭
 
-- 👨‍💻
+
+
+
+
+
+
+
+
+
+
+
 
 - 📫 How to reach me **joaongarcia18@gmail.com**
 
-- 📄 Know about my experiences [https://profile.indeed.com/p/joog-mpcdd2b](https://profile.indeed.com/p/joog-mpcdd2b)
+- 📄 Know about my experience [https://profile.indeed.com/p/joog-mpcdd2b](https://profile.indeed.com/p/joog-mpcdd2b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
