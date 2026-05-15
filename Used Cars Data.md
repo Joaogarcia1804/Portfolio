@@ -15,7 +15,7 @@
 
 
 ## 🗂️ The Data
-<img width="1063" alt="image" src="https://raw.githubusercontent.com/JoaoGarciaData/808f024d8a1fd421868f07fa4b3d52bd97738aef/Raw%20Data.png">
+<img width="1063" alt="image" src="https://raw.githubusercontent.com/JoaoGarciaData/JoaoGarciaData/main/Data.png">
 
 
 
