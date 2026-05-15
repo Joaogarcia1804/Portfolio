@@ -36,7 +36,7 @@ year, selling_price, km_driven, fuel, seller_type, transmission, owner
 from `cars_dataset`.`cars1`
 `````
 
-  ● Since the selling price is in Rupes, this converts Rupes to Euros at current conversion rate
+  ● Since the selling price is in Rupes, this converts Rupes to Euros at the current conversion rate
   
 ````sql
 update `cars_dataset`.`cars_table`
