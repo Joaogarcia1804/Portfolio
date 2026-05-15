@@ -1,5 +1,5 @@
 # My Portfolio
-## 🎯 Projects 
+# 🎯 Projects 
   - 🔭 [SQL](#sql)
   - 👨‍💻 [Tableau](#tableau)
 
@@ -10,12 +10,16 @@
 
 
 # SQL
+
   - 🚗 [Used Cars market evaluation](https://github.com/JoaoGarciaData/JoaoGarciaData/blob/main/Used%20Cars%20Data.md)
 
 
 
 
 
+# Tableau
+
+   - 🚗 [Used Cars market evaluation](https://public.tableau.com/views/UsedCars_17787591321890/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -23,9 +27,7 @@
 
 
 
-
-
-
+# Conctacts 
 - 📫 How to reach me **joaongarcia18@gmail.com**
 
 - 📄 Know about my experience [https://profile.indeed.com/p/joog-mpcdd2b](https://profile.indeed.com/p/joog-mpcdd2b)
