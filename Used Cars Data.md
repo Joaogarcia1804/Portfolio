@@ -4,9 +4,9 @@
 ## Contents
 - [Business Task](#Business-task)
 - [The Data](#the-data)
-- Solution
-  - Data Cleaning
-  - Analysis
+- [Solution](#solution)
+  - [Data Cleaning](#data-cleaning)
+  - [Analysis](#analysis)
 
 
 ## Business Task
@@ -16,4 +16,18 @@
 
 ## The Data
 <img width="1063" alt="image" src="https://raw.githubusercontent.com/JoaoGarciaData/JoaoGarciaData/main/Captura%20de%20ecr%C3%A3%202026-05-15%20091906.png">
+
+
+
+
+## Solution
+
+### Data cleaning
+
+
+
+
+
+
+### Analysis
 
