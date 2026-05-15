@@ -3,7 +3,7 @@
 
 ## Contents
 - [Business Task](#-business-task) 
-- [The Data](#-the-data)
+- [The Data](#%EF%B8%8F-the-data)
 - [Solution](#solution)
   - [Data Cleaning](#-data-cleaning)
   - [Analysis](#-analysis)
