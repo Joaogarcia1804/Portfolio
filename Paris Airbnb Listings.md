@@ -116,8 +116,12 @@ paris_listings_over_time = ptable.groupby('year').agg({
 paris_listings_over_time.to_csv('paris_listings_over_time.csv', index=True)
 ```
 
+  ● Counts the number of listings grouped by neighbourhood and creates a table with that data
+paris_neighbourhood_count = ptable.groupby('neighbourhood').agg({
+    'host_since': 'count'
+})
 
-
+paris_neighbourhood_count.to_csv('paris_neighbourhood_count.csv', index=True)
 
 
 
