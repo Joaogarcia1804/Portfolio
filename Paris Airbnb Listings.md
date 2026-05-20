@@ -17,7 +17,7 @@
 
 ## 🧹 Wrangling
 
-    ● Creates a table with just the listings where the city is Paris
+  ● Creates a table with just the listings where the city is Paris
 
 ```python
 import pandas as pd
@@ -30,8 +30,8 @@ Paris_data.to_csv('Paris_data.csv', index=False)
 ```
 
 
-    ● Changes the host_since column to datetime
-    ● Creates a new temporary column with just the year of the host_since column
+  ● Changes the host_since column to datetime
+  ● Creates a new temporary column with just the year of the host_since column
 ```python
 ptable['host_since'] = pd.to_datetime(ptable['host_since'], errors='coerce')
 
