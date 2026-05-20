@@ -2,9 +2,9 @@
 
 
 ## 💾 Contents
-  	[Task]
-    [Wrangling]
-    [Analysis]
+  	[Task](#-task)
+    [Wrangling](#-wrangling)
+    [Analysis](#-analysis)
 
 
 
