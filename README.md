@@ -1,7 +1,8 @@
 # My Portfolio
 # 🎯 Projects 
   - 🔭 [SQL](#sql)
-  - 👨‍💻 [Tableau](#tableau)
+  - 📊 [Tableau](#tableau)
+  - 🌐 [Python](python)
 
 
 
@@ -25,6 +26,9 @@
 
 
 
+
+
+# Python
 
 
 
