@@ -20,6 +20,7 @@
 # Tableau
 
    - 🚗 [Used Cars market evaluation](https://public.tableau.com/views/UsedCars_17787591321890/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+   - 🏠 [Paris Airbnb Listings](https://public.tableau.com/views/Airbnb_17792747280810/Painel1?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
