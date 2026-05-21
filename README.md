@@ -1,4 +1,3 @@
-# My Portfolio
 # 🎯 Projects 
   - 🔭 [SQL](#sql)
   - 📊 [Tableau](#tableau)
