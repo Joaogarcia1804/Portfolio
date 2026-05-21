@@ -11,7 +11,7 @@
 
 # SQL
 
-  - 🚗 [Used Cars market evaluation](https://github.com/JoaoGarciaData/JoaoGarciaData/blob/main/Used%20Cars%20Data.md)
+  - 🚗 [Used Cars market evaluation](https://github.com/Joaogarcia1804/Portfolio/blob/main/Used%20Cars%20Data.md)
 
 
 
@@ -29,7 +29,7 @@
 
 # Python
 
-  - 🏠 [Paris Airbnb Listings](https://github.com/JoaoGarciaData/JoaoGarciaData/blob/main/Paris%20Airbnb%20Listings.md)
+  - 🏠 [Paris Airbnb Listings](https://github.com/Joaogarcia1804/Portfolio/blob/main/Paris%20Airbnb%20Listings.md)
 
 # Conctacts 
 - 📫 Email: **joaongarcia18@gmail.com**
