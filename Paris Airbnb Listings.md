@@ -9,15 +9,15 @@
 
 
 ## 📚 Task
-    ● Calculate metrics
+ ● Calculate metrics
     
-    ● Produce Data Frames to be used in visualization
+ ● Produce Data Frames to be used in visualization
 
 
 
 ## 🧹 Wrangling
 
-  ● Creates a table with just the listings where the city is Paris
+ ● Creates a table with just the listings where the city is Paris
 
 ```python
 import pandas as pd
