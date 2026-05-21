@@ -1,7 +1,7 @@
 # 🎯 Projects 
   - 🔭 [SQL](#sql)
   - 📊 [Tableau](#tableau)
-  - 🌐 [Python](python)
+  - 🌐 [Python](#python)
 
 
 
