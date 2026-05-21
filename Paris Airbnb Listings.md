@@ -103,26 +103,25 @@ df.to_csv('paris_listings_accomodations.csv', index=False)
   ● Creates a table of the yearly number and average price of the listings
 
 ```python 
-## creates a new temporary column with the year of the host_since column
 ptable['year'] = ptable['host_since'].dt.year
 
-## Group the data by year, find the mean price and count of listings for each year
 paris_listings_over_time = ptable.groupby('year').agg({
     'price': 'mean',
     'host_since': 'count'
 })
 
-## create a new table
 paris_listings_over_time.to_csv('paris_listings_over_time.csv', index=True)
 ```
 
   ● Counts the number of listings grouped by neighbourhood and creates a table with that data
+
+```python 
 paris_neighbourhood_count = ptable.groupby('neighbourhood').agg({
     'host_since': 'count'
 })
 
 paris_neighbourhood_count.to_csv('paris_neighbourhood_count.csv', index=True)
-
+```
 
 
 
