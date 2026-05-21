@@ -32,9 +32,9 @@
   - 🏠 [Paris Airbnb Listings](https://github.com/JoaoGarciaData/JoaoGarciaData/blob/main/Paris%20Airbnb%20Listings.md)
 
 # Conctacts 
-- 📫 How to reach me **joaongarcia18@gmail.com**
+- 📫 Email: **joaongarcia18@gmail.com**
 
-- 📄 Know about my experience [https://profile.indeed.com/p/joog-mpcdd2b](https://profile.indeed.com/p/joog-mpcdd2b)
+- 📄 Curriculum: [https://profile.indeed.com/p/joog-mpcdd2b](https://profile.indeed.com/p/joog-mpcdd2b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
