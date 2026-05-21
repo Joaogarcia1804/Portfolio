@@ -18,7 +18,7 @@ All the data used was sourced from the following link: [here](https://www.kaggle
 
 
 ## 🗂️ The Data
-<img width="1063" alt="image" src="https://raw.githubusercontent.com/JoaoGarciaData/JoaoGarciaData/main/Data.png">
+<img width="1063" alt="image" src="https://raw.githubusercontent.com/Joaogarcia1804/Portfolio/main/Data.png">
 
 
 
